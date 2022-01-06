@@ -1,0 +1,157 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:rgba(0,1,22,1.00);
+	
+}
+.wreper{
+	padding: 0px 0px;
+	margin: 0px auto;
+	width: 960px;
+}
+.logo{
+	color: rgba(0,1,22,1.00);
+}
+.logodiv{
+	display: flex;
+	justify-content: space-between;
+	background:rgba(0,1,22,1.00);
+	
+}
+.logodiv ul{
+	list-style-type: none;
+	
+}
+.logodiv ul li{
+	display: inline-block;
+	margin: 10px 10px;
+	padding: 10px 10px;
+	
+}
+.logodiv ul li a{
+	color: rgba(166,14,16,1.00);
+}
+.logodiv ul li a:hover{
+	color: rgba(237,227,227,1.00);
+		transition-property: all;
+	transition-delay: 0.5s;
+	transition-duration: 0.5s;
+}
+heder{
+	width: 860px;
+}
+.main{
+	width: 800px;
+	border-bottom-width: thick;
+}
+main h1{
+	text-align: center;
+}
+.list{
+	display: flex;
+	justify-content: space-between;
+}
+
+.phto{
+	margin: 15px 15px;
+	padding: 15px 15px;
+	background-color: rgba(49,168,255,1.00);
+	
+}
+	
+.ilu{
+	margin: 15px 15px;
+	padding: 15px 15px;
+	background-color: rgba(255,154,0,1.00);
+}
+.word{
+	margin: 15px 15px;
+	padding: 15px 15px;
+	background-color: rgba(33,117,155,1.00);
+}
+.crt{
+	margin: 15px 15px;
+	padding: 15px 15px;
+	background-color: rgba(255,97,246,1.00);
+}
+.phto:hover{
+	background-color: rgba(37,85,149,1.00);
+	transition-property: all;
+	transition-delay: 0.5s;
+	transition-duration: 0.5s;
+}
+.ilu:hover{
+	background-color: rgba(222,12,12,1.00);
+		transition-property: all;
+	transition-delay: 0.5s;
+	transition-duration: 0.5s;
+}
+.crt:hover{
+	background-color:rgba(243,49,53,1.00);
+	transition-property: all;
+	transition-delay: 0.5s;
+	transition-duration: 0.5s;
+}
+.word:hover{
+	background-color:rgba(22,61,166,1.00);
+	transition-property: all;
+	transition-delay: 0.5s;
+	transition-duration: 0.5s;
+}
+footer{
+	background-color: rgba(29,29,31,1.00);
+	text-align: center;
+	width: 100%;
+	
+}
+footer p{
+	color: white;
+}
+.p1{
+	width: 200px;
+	height: 300px;
+}
+.p2{
+	width: 200px;
+	height: 300px
+}
+.p3{
+width: 200px;
+	height: 300px
+}
+.p4{
+	width: 200px;
+	height: 300px
+}
+.miniwreper{
+	display: flex;
+	justify-content: space-between;
+}
+.picturs{
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+.vector1{
+	width: 200px;
+	height: 300px;
+}
+main h1{
+	text-align: center;
+}
+.draw1{
+		width: 200px;
+	height: 300px;
+
+	
+}
+.p5{
+	width: 960px;
+}	
+h1{
+	color: rgba(249,240,240,1.00);
+}
+
+
+
+
